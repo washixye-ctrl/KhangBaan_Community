@@ -313,6 +313,8 @@
 
 # 🚀 15 — DEVELOPMENT PLAN
 
+![development](Pic/DP.gif)
+
 **แผนการพัฒนาเป็นระยะ**
 
 | Phase | ระบบที่พัฒนา |
@@ -330,6 +332,8 @@
 <a id="benefits"></a>
 
 # ✨ 16 — COMMUNITY BENEFITS
+
+![benefits](Pic/BF.gif)
 
 **ประโยชน์ที่คาดว่าจะได้รับ**
 
@@ -353,8 +357,6 @@
 ---
 
 <div align="center">
-
-![Footer](Pic/BF.gif)
 
 # 🏡 ข้างบ้าน
 
